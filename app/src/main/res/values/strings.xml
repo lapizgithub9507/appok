@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ADMINISTRA TUS CONDUCTORES</string>
+    <string name="BotonRegistrar">Registrar Conductor</string>
+    <string name="BotonBuscar">Buscar Conductor</string>
+    <string name="BotonModificar">Modificar Conductor</string>
+    <string name="BotonEliminar">Eliminar Conductor</string>
+    <string name="BotonIngresar">INGRESAR</string>
+    <string name="BotonRegistro">REGISTRARSE</string>
+    <string name="todo">TODO</string>
+</resources>
